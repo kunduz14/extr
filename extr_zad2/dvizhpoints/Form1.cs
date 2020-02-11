@@ -120,7 +120,7 @@ namespace dvizhpoints
             
             Gl.glColor3f(1.0f, 1.0f, 1.0f);
             DrawAxes();
-            //hhhh
+           
             // vector a i pryamaiya cherez a
             Gl.glColor3f(0.03f, 0.7f, 0.7f);
             DrawVector(ax, ay);
