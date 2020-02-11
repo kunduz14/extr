@@ -25,6 +25,8 @@ namespace dvizhpoints
         double bx = 0.0;
         double by = 0.0;
 
+        double[,] array = new double[4, 2] { { 2.0, 4.0 }, { -1.0, -5.1 }, { 0.3, -3.5 }, { 1.0, -6.0 } };
+
         public Form1()
         {
             InitializeComponent();
@@ -45,8 +47,6 @@ namespace dvizhpoints
             //clear();
             //DrawAxes();
             //DrawVector(2.5, 2.5);
-
-
 
         }
 
@@ -134,6 +134,11 @@ namespace dvizhpoints
             //proektsiya
             DrawProjection(ax, ay);
 
+            for (int i = 0; i < array.GetLength(0);i++) {
+                DrawVector(array[i, 0], array[i, 1]);
+                DrawProjection(array[i, 0], array[i, 1]);
+                //DrawProjection(array[i, 0], array[i, 1]);
+            }
 
 
             Gl.glFlush();
