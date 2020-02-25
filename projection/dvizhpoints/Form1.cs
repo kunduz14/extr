@@ -52,7 +52,6 @@ namespace dvizhpoints
         }
         public void DrawAxes()
         {
-
             Gl.glLineWidth(1.0f);
             
             Gl.glBegin(Gl.GL_LINES);
