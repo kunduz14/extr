@@ -12,7 +12,9 @@ using Tao.FreeGlut;
 using Tao.OpenGl;
 using Tao.Platform.Windows;
 
-
+///
+///  SAMPLE
+///
 namespace dvizhpoints
 {
     public partial class Form1 : Form
