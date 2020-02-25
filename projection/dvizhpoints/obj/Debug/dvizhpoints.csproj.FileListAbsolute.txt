@@ -1,0 +1,92 @@
+D:\C####\dvizhpoints\dvizhpoints\bin\Debug\dvizhpoints.exe.config
+D:\C####\dvizhpoints\dvizhpoints\bin\Debug\dvizhpoints.exe
+D:\C####\dvizhpoints\dvizhpoints\bin\Debug\dvizhpoints.pdb
+D:\C####\dvizhpoints\dvizhpoints\bin\Debug\Tao.FreeGlut.dll
+D:\C####\dvizhpoints\dvizhpoints\bin\Debug\Tao.OpenGl.dll
+D:\C####\dvizhpoints\dvizhpoints\bin\Debug\Tao.Platform.Windows.dll
+D:\C####\dvizhpoints\dvizhpoints\obj\Debug\dvizhpoints.Form1.resources
+D:\C####\dvizhpoints\dvizhpoints\obj\Debug\dvizhpoints.Properties.Resources.resources
+D:\C####\dvizhpoints\dvizhpoints\obj\Debug\dvizhpoints.csproj.GenerateResource.Cache
+D:\C####\dvizhpoints\dvizhpoints\obj\Debug\dvizhpoints.exe
+D:\C####\dvizhpoints\dvizhpoints\obj\Debug\dvizhpoints.pdb
+E:\C####\dvizhpoints\dvizhpoints\bin\Debug\dvizhpoints.exe.config
+E:\C####\dvizhpoints\dvizhpoints\bin\Debug\dvizhpoints.exe
+E:\C####\dvizhpoints\dvizhpoints\bin\Debug\dvizhpoints.pdb
+E:\C####\dvizhpoints\dvizhpoints\bin\Debug\Tao.FreeGlut.dll
+E:\C####\dvizhpoints\dvizhpoints\bin\Debug\Tao.OpenGl.dll
+E:\C####\dvizhpoints\dvizhpoints\bin\Debug\Tao.Platform.Windows.dll
+E:\C####\dvizhpoints\dvizhpoints\obj\Debug\dvizhpoints.Form1.resources
+E:\C####\dvizhpoints\dvizhpoints\obj\Debug\dvizhpoints.Properties.Resources.resources
+E:\C####\dvizhpoints\dvizhpoints\obj\Debug\dvizhpoints.csproj.GenerateResource.Cache
+E:\C####\dvizhpoints\dvizhpoints\obj\Debug\dvizhpoints.exe
+E:\C####\dvizhpoints\dvizhpoints\obj\Debug\dvizhpoints.pdb
+C:\Users\shoo\Desktop\dvizhpoints\dvizhpoints\bin\Debug\dvizhpoints.exe.config
+C:\Users\shoo\Desktop\dvizhpoints\dvizhpoints\bin\Debug\dvizhpoints.exe
+C:\Users\shoo\Desktop\dvizhpoints\dvizhpoints\bin\Debug\dvizhpoints.pdb
+C:\Users\shoo\Desktop\dvizhpoints\dvizhpoints\obj\Debug\dvizhpoints.Form1.resources
+C:\Users\shoo\Desktop\dvizhpoints\dvizhpoints\obj\Debug\dvizhpoints.Properties.Resources.resources
+C:\Users\shoo\Desktop\dvizhpoints\dvizhpoints\obj\Debug\dvizhpoints.csproj.GenerateResource.Cache
+C:\Users\shoo\Desktop\dvizhpoints\dvizhpoints\obj\Debug\dvizhpoints.exe
+C:\Users\shoo\Desktop\dvizhpoints\dvizhpoints\obj\Debug\dvizhpoints.pdb
+C:\Users\shoo\Desktop\dvizhpoints\dvizhpoints\obj\Debug\dvizhpoints.csprojResolveAssemblyReference.cache
+C:\Users\shoo\Desktop\dvizhpoints гот\dvizhpoints\bin\Debug\dvizhpoints.exe.config
+C:\Users\shoo\Desktop\dvizhpoints гот\dvizhpoints\bin\Debug\dvizhpoints.exe
+C:\Users\shoo\Desktop\dvizhpoints гот\dvizhpoints\bin\Debug\dvizhpoints.pdb
+C:\Users\shoo\Desktop\dvizhpoints гот\dvizhpoints\obj\Debug\dvizhpoints.Form1.resources
+C:\Users\shoo\Desktop\dvizhpoints гот\dvizhpoints\obj\Debug\dvizhpoints.Properties.Resources.resources
+C:\Users\shoo\Desktop\dvizhpoints гот\dvizhpoints\obj\Debug\dvizhpoints.csproj.GenerateResource.Cache
+C:\Users\shoo\Desktop\dvizhpoints гот\dvizhpoints\obj\Debug\dvizhpoints.exe
+C:\Users\shoo\Desktop\dvizhpoints гот\dvizhpoints\obj\Debug\dvizhpoints.pdb
+E:\C####\dvizhpoints гот\dvizhpoints\bin\Debug\dvizhpoints.exe.config
+E:\C####\dvizhpoints гот\dvizhpoints\obj\Debug\dvizhpoints.exe
+E:\C####\dvizhpoints гот\dvizhpoints\obj\Debug\dvizhpoints.pdb
+E:\C####\dvizhpoints гот\dvizhpoints\bin\Debug\dvizhpoints.exe
+E:\C####\dvizhpoints гот\dvizhpoints\bin\Debug\dvizhpoints.pdb
+E:\C####\dvizhpoints гот\dvizhpoints\bin\Debug\Tao.FreeGlut.dll
+E:\C####\dvizhpoints гот\dvizhpoints\bin\Debug\Tao.OpenGl.dll
+E:\C####\dvizhpoints гот\dvizhpoints\bin\Debug\Tao.Platform.Windows.dll
+E:\C####\dvizhpoints гот\dvizhpoints\obj\Debug\dvizhpoints.Form1.resources
+E:\C####\dvizhpoints гот\dvizhpoints\obj\Debug\dvizhpoints.Properties.Resources.resources
+E:\C####\dvizhpoints гот\dvizhpoints\obj\Debug\dvizhpoints.csproj.GenerateResource.Cache
+C:\Users\stud\MiKN_2020-2\extr_zad1\dvizhpoints\bin\Debug\dvizhpoints.exe.config
+C:\Users\stud\MiKN_2020-2\extr_zad1\dvizhpoints\bin\Debug\dvizhpoints.exe
+C:\Users\stud\MiKN_2020-2\extr_zad1\dvizhpoints\bin\Debug\dvizhpoints.pdb
+C:\Users\stud\MiKN_2020-2\extr_zad1\dvizhpoints\bin\Debug\Tao.FreeGlut.dll
+C:\Users\stud\MiKN_2020-2\extr_zad1\dvizhpoints\bin\Debug\Tao.OpenGl.dll
+C:\Users\stud\MiKN_2020-2\extr_zad1\dvizhpoints\bin\Debug\Tao.Platform.Windows.dll
+C:\Users\stud\MiKN_2020-2\extr_zad1\dvizhpoints\obj\Debug\dvizhpoints.csprojResolveAssemblyReference.cache
+C:\Users\stud\MiKN_2020-2\extr_zad1\dvizhpoints\obj\Debug\dvizhpoints.Form1.resources
+C:\Users\stud\MiKN_2020-2\extr_zad1\dvizhpoints\obj\Debug\dvizhpoints.Properties.Resources.resources
+C:\Users\stud\MiKN_2020-2\extr_zad1\dvizhpoints\obj\Debug\dvizhpoints.csproj.GenerateResource.Cache
+C:\Users\stud\MiKN_2020-2\extr_zad1\dvizhpoints\obj\Debug\dvizhpoints.exe
+C:\Users\stud\MiKN_2020-2\extr_zad1\dvizhpoints\obj\Debug\dvizhpoints.pdb
+D:\C####\extr_zad2\dvizhpoints\bin\Debug\dvizhpoints.exe.config
+D:\C####\extr_zad2\dvizhpoints\bin\Debug\dvizhpoints.exe
+D:\C####\extr_zad2\dvizhpoints\bin\Debug\dvizhpoints.pdb
+D:\C####\extr_zad2\dvizhpoints\bin\Debug\Tao.FreeGlut.dll
+D:\C####\extr_zad2\dvizhpoints\bin\Debug\Tao.OpenGl.dll
+D:\C####\extr_zad2\dvizhpoints\bin\Debug\Tao.Platform.Windows.dll
+D:\C####\extr_zad2\dvizhpoints\obj\Debug\dvizhpoints.csprojResolveAssemblyReference.cache
+D:\C####\extr_zad2\dvizhpoints\obj\Debug\dvizhpoints.Form1.resources
+D:\C####\extr_zad2\dvizhpoints\obj\Debug\dvizhpoints.Properties.Resources.resources
+D:\C####\extr_zad2\dvizhpoints\obj\Debug\dvizhpoints.csproj.GenerateResource.Cache
+D:\C####\extr_zad2\dvizhpoints\obj\Debug\dvizhpoints.exe
+D:\C####\extr_zad2\dvizhpoints\obj\Debug\dvizhpoints.pdb
+C:\Users\stud\extr\extr_zad2\dvizhpoints\bin\Debug\dvizhpoints.exe.config
+C:\Users\stud\extr\extr_zad2\dvizhpoints\bin\Debug\dvizhpoints.exe
+C:\Users\stud\extr\extr_zad2\dvizhpoints\bin\Debug\dvizhpoints.pdb
+C:\Users\stud\extr\extr_zad2\dvizhpoints\obj\Debug\dvizhpoints.csprojResolveAssemblyReference.cache
+C:\Users\stud\extr\extr_zad2\dvizhpoints\obj\Debug\dvizhpoints.Form1.resources
+C:\Users\stud\extr\extr_zad2\dvizhpoints\obj\Debug\dvizhpoints.Properties.Resources.resources
+C:\Users\stud\extr\extr_zad2\dvizhpoints\obj\Debug\dvizhpoints.csproj.GenerateResource.Cache
+C:\Users\stud\extr\extr_zad2\dvizhpoints\obj\Debug\dvizhpoints.exe
+C:\Users\stud\extr\extr_zad2\dvizhpoints\obj\Debug\dvizhpoints.pdb
+C:\Users\stud\extr\projection\dvizhpoints\bin\Debug\dvizhpoints.exe.config
+C:\Users\stud\extr\projection\dvizhpoints\bin\Debug\dvizhpoints.exe
+C:\Users\stud\extr\projection\dvizhpoints\bin\Debug\dvizhpoints.pdb
+C:\Users\stud\extr\projection\dvizhpoints\obj\Debug\dvizhpoints.csprojResolveAssemblyReference.cache
+C:\Users\stud\extr\projection\dvizhpoints\obj\Debug\dvizhpoints.Form1.resources
+C:\Users\stud\extr\projection\dvizhpoints\obj\Debug\dvizhpoints.Properties.Resources.resources
+C:\Users\stud\extr\projection\dvizhpoints\obj\Debug\dvizhpoints.csproj.GenerateResource.Cache
+C:\Users\stud\extr\projection\dvizhpoints\obj\Debug\dvizhpoints.exe
+C:\Users\stud\extr\projection\dvizhpoints\obj\Debug\dvizhpoints.pdb
