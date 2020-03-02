@@ -90,3 +90,9 @@ C:\Users\stud\extr\projection\dvizhpoints\obj\Debug\dvizhpoints.Properties.Resou
 C:\Users\stud\extr\projection\dvizhpoints\obj\Debug\dvizhpoints.csproj.GenerateResource.Cache
 C:\Users\stud\extr\projection\dvizhpoints\obj\Debug\dvizhpoints.exe
 C:\Users\stud\extr\projection\dvizhpoints\obj\Debug\dvizhpoints.pdb
+C:\Users\stud\extr\projection\dvizhpoints\bin\Debug\Tao.FreeGlut.dll
+C:\Users\stud\extr\projection\dvizhpoints\bin\Debug\Tao.OpenGl.dll
+C:\Users\stud\extr\projection\dvizhpoints\bin\Debug\Tao.Platform.Windows.dll
+C:\Users\stud\extr\projection\dvizhpoints\bin\Debug\Tao.FreeGlut.xml
+C:\Users\stud\extr\projection\dvizhpoints\bin\Debug\Tao.OpenGl.xml
+C:\Users\stud\extr\projection\dvizhpoints\bin\Debug\Tao.Platform.Windows.xml

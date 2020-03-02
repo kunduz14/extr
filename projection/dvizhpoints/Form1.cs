@@ -25,6 +25,8 @@ namespace dvizhpoints
         double bx = 0.0;
         double by = 0.0;
 
+        double angle = 0;
+
         public Form1()
         {
             InitializeComponent();
@@ -110,8 +112,13 @@ namespace dvizhpoints
             DrawAxes();
 
             Gl.glColor3f(0.4f, 0.0f, 1.0f);
-            edVect(trackBar1.Value);
-            pLine(trackBar1.Value, trackBar2.Value);
+
+            angle = (trackBar1.Value / (double)trackBar1.Maximum) * 2 * Math.PI;
+
+            edVect(angle);
+            DrawPryamaya(Math.Cos(angle), Math.Sin(angle));
+            pLine(angle, trackBar2.Value/10.0);
+            drawOtr(1, 2, 2, -1);
 
             Gl.glFlush();
             AnT.Invalidate();
@@ -128,6 +135,12 @@ namespace dvizhpoints
             Gl.glVertex2d(-6.0 * ex, -6.0 * ey);
             Gl.glEnd();
 
+        }
+        public void drawOtr(double x1, double y1, double x2, double y2){
+            Gl.glBegin(Gl.GL_LINES);
+            Gl.glVertex2d(x1, y1);
+            Gl.glVertex2d(x2, y2);
+            Gl.glEnd();
         }
         public void DrawProjection(double A, double B)
         {
@@ -155,14 +168,19 @@ namespace dvizhpoints
             Gl.glEnd();
 
         }
-        public void pLine(double angle, double r)
+        public void pLine(double angle1, double r)
         {
-            double alpha = (angle * 180) / Math.PI;
+            //double alpha = (angle * 180) / Math.PI;
 
-            double x1 = Math.Cos(alpha + Math.PI / 6) + Math.Cos(alpha) * r;
-            double y1 = Math.Sin(alpha + Math.PI / 6) + Math.Sin(alpha) * r;
-            double x2 = Math.Cos(alpha - Math.PI / 6) + Math.Cos(alpha) * r;
-            double y2 = Math.Sin(alpha - Math.PI / 6) + Math.Sin(alpha) * r;
+            //double x1 = Math.Cos(angle1 + Math.PI / 6) + Math.Cos(angle1) * r;
+            //double y1 = Math.Sin(angle1 + Math.PI / 6) + Math.Sin(angle1) * r;
+            //double x2 = Math.Cos(angle1 - Math.PI / 6) + Math.Cos(angle1) * r;
+            //double y2 = Math.Sin(angle1 - Math.PI / 6) + Math.Sin(angle1) * r;
+
+            double x1 = 6*Math.Cos(angle1+Math.PI/2) + Math.Cos(angle1) * r;
+            double y1 = 6*Math.Sin(angle1+Math.PI/2) + Math.Sin(angle1) * r;
+            double x2 = 6*Math.Cos(angle-Math.PI/2) + Math.Cos(angle1) * r;
+            double y2 = 6 * Math.Sin(angle1 - Math.PI / 2) + Math.Sin(angle1) * r;
 
             Gl.glBegin(Gl.GL_LINES);
             Gl.glVertex2d(x1, y1);
@@ -172,16 +190,16 @@ namespace dvizhpoints
         }
         public void edVect(double alpha)
         {
-            double alfa = 0;//угол нашего вектора
-            x = Math.Cos((alpha * 180) / Math.PI);
-            y = Math.Sin((alpha * 180) / Math.PI);
-            alfa = Math.Acos(x / Math.Sqrt(x * x + y * y));
-            if (y < 0)
-                alfa = -alfa;
-            double p1x = Math.Cos(alfa + Math.PI / 18);
-            double p1y = Math.Sin(alfa + Math.PI / 18);
-            double p2x = Math.Cos(alfa - Math.PI / 18);
-            double p2y = Math.Sin(alfa - Math.PI / 18);
+            //double alfa = 0;//угол нашего вектора
+            x = Math.Cos(alpha);
+            y = Math.Sin(alpha);
+            //alfa = Math.Acos(x / Math.Sqrt(x * x + y * y));
+            //if (y < 0)
+                //alfa = -alfa;
+            double p1x = Math.Cos(alpha + Math.PI / 18);
+            double p1y = Math.Sin(alpha + Math.PI / 18);
+            double p2x = Math.Cos(alpha - Math.PI / 18);
+            double p2y = Math.Sin(alpha - Math.PI / 18);
 
             Gl.glLineWidth(2.0f);
             Gl.glBegin(Gl.GL_LINES);
